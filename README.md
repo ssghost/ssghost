@@ -1,7 +1,7 @@
 Hi! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Ssghost (StarDustClub)
 ==============================================================================================================================================
 
-Senior AI Algorithm & EVM Smart-contract Developer
+Independent Developer for Algorithms and Contracts.
 -------------------------------------------
 
 * 🌍  I'm preferred in Working Remotely.
@@ -15,7 +15,7 @@ Senior AI Algorithm & EVM Smart-contract Developer
   <br />Machine Learning Engineer, Quantitative Engineer, Smart contract Engineer, Smart Contract Auditor
   <br />Hong Kong Remote or Europe Remote & VISA supported On-site
 <br /><br />
-* 🖥️  See my portfolio at
+* 🖥️  See my portfolio at:
   <br />[My DeepLearning TechStack](https://github.com/ssghost/My_Resume/blob/main/My_DeepLearning_TechStack.md)
   <br />[My BlockChain TechStack](https://github.com/ssghost/My_Resume/blob/main/My_BlockChain_TechStack.md)
   <br />[My Rust Sideproj](https://github.com/ssghost/My_Resume/blob/main/My_Rust_Sideproj.md)
@@ -29,3 +29,7 @@ Senior AI Algorithm & EVM Smart-contract Developer
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/sidham_song" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/ssghost" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/shuangsongprofile" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/sidham_song" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+
+![ssghost's Skills Chart](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=ssghost&show-other-skills=true&padding=2)
+
+![ssghost's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssghost)
