@@ -1,16 +1,12 @@
-### Hi there 👋
+Hi! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Ssghost (StarDustClub)
+==============================================================================================================================================
 
-<!--
-**ssghost/ssghost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior AI Algorithm & EVM Smart-contract Developer
+-------------------------------------------
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌍  I'm preferred in Working Remotely.
+&nbsp;
+* 🖥️  See my portfolio at
+  &emsp;[My DeepLearning TechStack](https://github.com/ssghost/My_Resume/blob/main/My_DeepLearning_TechStack.md)
+  &emsp;[My BlockChain TechStack](https://github.com/ssghost/My_Resume/blob/main/My_BlockChain_TechStack.md)
+  &emsp;[My Rust Sideproj](https://github.com/ssghost/My_Resume/blob/main/My_Rust_Sideproj.md)
