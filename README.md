@@ -35,7 +35,7 @@ Independent Developer for Algorithms and Contracts.
 
 <style>
   codersrank-skills-chart {
-  --axis-bg-color: rgba(0,0,0,0);
+  chart-bg-color: rgba(0,0,0,0);
 }
 </style>
 
