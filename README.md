@@ -6,7 +6,14 @@ Senior AI Algorithm & EVM Smart-contract Developer
 
 * 🌍  I'm preferred in Working Remotely.
 <br />
-Experienced Job Types: 6 years Machine Learning Engineer 3 years Quantitative Engineer 3 years Smart Contract Engineer Expected Job Types: Machine Learning Engineer, Quantitative Engineer, Smart contract Engineer, Smart Contract Auditor Hong Kong Remote Europe Remote & VISA supported On-site
+* 🚀  Experienced Job Types:
+  <br />6 years Machine Learning Engineer
+  <br />3 years Quantitative Engineer
+  <br />3 years Smart Contract Engineer
+<br />
+* Expected Job Types:
+  <br />Machine Learning Engineer, Quantitative Engineer, Smart contract Engineer, Smart Contract Auditor
+  <br />Hong Kong Remote or Europe Remote & VISA supported On-site
 <br />
 * 🖥️  See my portfolio at
   <br />[My DeepLearning TechStack](https://github.com/ssghost/My_Resume/blob/main/My_DeepLearning_TechStack.md)
