@@ -13,7 +13,7 @@ Independent Developer for Algorithms and Contracts.
 <br /><br />
 * 🚀  Expected Job Types:
   <br />Machine Learning Engineer, Quantitative Engineer, Smart contract Engineer, Smart Contract Auditor
-  <br />Hong Kong Remote or Europe Remote & VISA supported On-site
+  <br />Singapore Onsite/Remote or Europe Remote/VISA supported On-site
 <br /><br />
 * 🖥️  See my portfolio at:
   <br />[My DeepLearning TechStack](https://github.com/ssghost/My_Resume/blob/main/My_DeepLearning_TechStack.md)
