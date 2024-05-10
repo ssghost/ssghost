@@ -31,7 +31,7 @@ Independent Developer for Algorithms and Contracts.
 ![ssghost's Skills Chart](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=ssghost&skills=Shell,C,C%2B%2B,Python,Julia,Rust,JavaScript,TypeScript,Solidity&padding=2)
 
 ### Gravatar Namecard
-<iframe src="https://gravatar.com/stardustclubio" height=200 width=300></iframe>
+<iframe src="https://gravatar.com/stardustclubio" height="200" width="300"></iframe>
 
 ### Socials
 
