@@ -39,6 +39,6 @@ Independent Developer for Algorithms and Contracts.
 <ul style="list-style-type: none; margin: 0;">
 
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/nT0R26yLW"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.patreon.com/bePatron?u=26893597" data-patreon-widget-type="become-patron-button">Become a member!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script></a></li>
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.patreon.com/bePatron?u=26893597"><img src="https://gist.githubusercontent.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/patreon.svg" width="150"></a></li>
 
 </ul>
