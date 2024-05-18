@@ -40,5 +40,6 @@ Independent Developer for Algorithms and Contracts.
 
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/nT0R26yLW"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.patreon.com/bePatron?u=26893597"><img src="https://gist.githubusercontent.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/patreon.svg" width="150"></a></li>
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://discord.gg/VeQUAMZfZJ"><img src="https://gist.githubusercontent.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/discord.svg" width=150></a></li>
 
 </ul>
