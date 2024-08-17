@@ -4,7 +4,7 @@ Hi! 👋  My name is Ssghost (StarDustClub)
 Independent Developer for Algorithms and Contracts.
 -------------------------------------------
 
-* 🌍  I'm preferred in working remotely.
+* 🌍  I preferred in working remotely.
 <br /><br />
 * 🚀  Experienced Job Types:
   <br />6 years Machine Learning Engineer
