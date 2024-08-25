@@ -7,17 +7,17 @@ Independent Developer for Algorithms and Contracts.
 * 🌍  I preferred in working remotely.
 <br /><br />
 * 🚀  Experienced Job Types:
-  <br />6 years Machine Learning Engineer
-  <br />3 years Crypto Contract Engineer
+  <br />>6 years Machine Learning Engineer
+  <br />>3 years Crypto Contract Engineer
 <br /><br />
 * 🚀  Expected Job Types:
-  <br />Machine Learning Engineer, Quantitative Engineer, Crypto Contract Engineer, Crypto Contract Auditor
-  <br />HongKong Onsite/Remote or Europe Remote/VISA supported On-site
+  <br />>Machine Learning Engineer, Quantitative Engineer, Crypto Contract Engineer, Crypto Contract Auditor
+  <br />>HongKong Onsite/Remote or Europe Remote/VISA supported On-site
 <br /><br />
 * 🖥️  See my portfolio at:
-  <br />[My DeepLearning TechStack](https://github.com/ssghost/My_Resume/blob/main/My_DeepLearning_TechStack.md)
-  <br />[My BlockChain TechStack](https://github.com/ssghost/My_Resume/blob/main/My_BlockChain_TechStack.md)
-  <br />[My Rust Sideproj](https://github.com/ssghost/My_Resume/blob/main/My_Rust_Sideproj.md)
+  <br />>[My DeepLearning TechStack](https://github.com/ssghost/My_Resume/blob/main/My_DeepLearning_TechStack.md)
+  <br />>[My BlockChain TechStack](https://github.com/ssghost/My_Resume/blob/main/My_BlockChain_TechStack.md)
+  <br />>[My Rust Sideproj](https://github.com/ssghost/My_Resume/blob/main/My_Rust_Sideproj.md)
 
 ### Skills
 
