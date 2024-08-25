@@ -8,11 +8,10 @@ Independent Developer for Algorithms and Contracts.
 <br /><br />
 * 🚀  Experienced Job Types:
   <br />6 years Machine Learning Engineer
-  <br />3 years Quantitative Engineer
-  <br />3 years Smart Contract Engineer
+  <br />3 years Crypto Contract Engineer
 <br /><br />
 * 🚀  Expected Job Types:
-  <br />Machine Learning Engineer, Quantitative Engineer, Smart contract Engineer, Smart Contract Auditor
+  <br />Machine Learning Engineer, Quantitative Engineer, Crypto Contract Engineer, Crypto Contract Auditor
   <br />HongKong Onsite/Remote or Europe Remote/VISA supported On-site
 <br /><br />
 * 🖥️  See my portfolio at:
