@@ -28,6 +28,7 @@ Independent Developer for Algorithms and Contracts.
 ### Skills Chart
 
 ![ssghost's Skills Chart](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=ssghost&skills=Shell,C,C%2B%2B,Python,Julia,Rust,JavaScript,TypeScript,Solidity&padding=2)
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?@ssghost" frameborder="0"></iframe>
 
 ### Socials
 
