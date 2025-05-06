@@ -28,7 +28,7 @@ Independent Developer for Algorithms and Contracts.
 ### Skills Chart
 
 ![ssghost's Skills Chart](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=ssghost&skills=Shell,C,C%2B%2B,Python,Julia,Rust,JavaScript,TypeScript,Solidity&padding=2)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssghost&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssghost&layout=pie)
 
 ### Socials
 
