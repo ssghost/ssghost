@@ -27,7 +27,7 @@ Independent Developer for Algorithms and Contracts.
 
 ### Skills Chart
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssghost&layout=pie&hide=javascript,css,html,jupyter,handlebars&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssghost&layout=pie&hide=javascript,css,html,ipynb,handlebars&theme=tokyonight)
 
 
 ### Socials
