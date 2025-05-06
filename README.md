@@ -28,7 +28,7 @@ Independent Developer for Algorithms and Contracts.
 ### Skills Chart
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssghost&layout=pie)
-![ssghost's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ssghost)
+![](https://example.com/?username=ssghost&theme=ambient_gradient)
 
 ### Socials
 
