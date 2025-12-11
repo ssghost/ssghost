@@ -28,17 +28,13 @@ Independent Developer for Algorithms and Contracts.
 ### Skills Chart
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/ssghost/ssghost/master/profile-summary-card-output/tokyonight/3-stats.svg" alt="stats" height="170px" />
+  <img src="https://raw.githubusercontent.com/ssghost/ssghost/master/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="profile details" height="170px" width="45%" />
+  <img src="https://raw.githubusercontent.com/ssghost/ssghost/master/profile-summary-card-output/tokyonight/3-stats.svg" alt="stats" height="170px" width="45%" />
+  <br />
 
-  <img src="https://raw.githubusercontent.com/ssghost/ssghost/master/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="profile details" height="170px" />
+  <img src="https://raw.githubusercontent.com/ssghost/ssghost/master/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="repos per language" width="45%" />
+  <img src="https://raw.githubusercontent.com/ssghost/ssghost/master/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="most commit language" width="45%" />
 </p>
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/ssghost/ssghost/master/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="repos per language" width="48%" />
-
-  <img src="https://raw.githubusercontent.com/ssghost/ssghost/master/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="most commit language" width="48%" />
-</p>
-
 
 ### Socials
 
