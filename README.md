@@ -8,7 +8,7 @@ Independent Developer for Algorithms and Contracts.
 <br /><br />
 * 🚀  Experienced Job Types:
   <br />> 6 years Machine Learning Engineer
-  <br />> 3 years Crypto Contract Engineer
+  <br />> 4 years Crypto Contract Engineer
 <br /><br />
 * 🚀  Expected Job Types:
   <br />> Machine Learning Engineer, Quantitative Engineer, Crypto Contract Engineer, Crypto Contract Auditor
