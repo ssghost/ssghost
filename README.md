@@ -27,8 +27,11 @@ Independent Developer for Algorithms and Contracts.
 
 ### Skills Chart
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssghost&layout=pie&hide=javascript,css,html,handlebars,makefile,cmake&theme=tokyonight)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ssghost&show_icons=true&theme=tokyonight)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ssghost&show_icons=true&theme=tokyonight" alt="ssghost's github stats" width="48%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssghost&layout=compact&theme=tokyonight" alt="ssghost's top languages" width="48%" />
+</p>
 
 
 ### Socials
