@@ -31,6 +31,12 @@ Independent Developer for Algorithms and Contracts.
 
 ![](https://raw.githubusercontent.com/ssghost/ssghost/master/profile-summary-card-output/tokyonight/0-profile-details.svg)
 
+<p align="left">
+  <img src="https://raw.githubusercontent.com/ssghost/ssghost/master/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="repos per language" width="48%" />
+
+  <img src="https://raw.githubusercontent.com/ssghost/ssghost/master/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="most commit language" width="48%" />
+</p>
+
 
 ### Socials
 
