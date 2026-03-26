@@ -16,9 +16,7 @@ Independent Developer for Algorithms and Contracts.
   <br />> HongKong Onsite/Remote or Europe Remote/VISA supported On-site
 <br /><br />
 * 🖥️  See my portfolio at:
-  <br />> [My DeepLearning TechStack](https://github.com/ssghost/My_Resume/blob/main/My_DeepLearning_TechStack.md)
-  <br />> [My BlockChain TechStack](https://github.com/ssghost/My_Resume/blob/main/My_BlockChain_TechStack.md)
-  <br />> [My Rust Sideproj](https://github.com/ssghost/My_Resume/blob/main/My_Rust_Sideproj.md)
+  <br />> [My Interactive Meta Portfolio](https://meta-portfolio-frontend.vercel.app)
 
 ### Skills
 
