@@ -59,6 +59,7 @@ Independent Developer for Algorithms and Contracts.
     </td>
   </tr>
 </table>
+
 ### Skills Chart
 
 <p align="left">
