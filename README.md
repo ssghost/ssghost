@@ -63,8 +63,7 @@ Independent Developer for Algorithms and Contracts.
 ### Skills Chart
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/ssghost/ssghost/master/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="profile details" height="170px" />
-  <img src="https://raw.githubusercontent.com/ssghost/ssghost/master/profile-summary-card-output/tokyonight/3-stats.svg" alt="stats" height="170px" />
+  <img src="https://raw.githubusercontent.com/ssghost/ssghost/master/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="profile details" height="220px" />
   <br />
 
   <img src="https://raw.githubusercontent.com/ssghost/ssghost/master/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="repos per language" width="45%" />
